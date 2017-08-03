@@ -1,2 +1,2 @@
 # Embedded-Projects
-Some of my advanced embedded projects
+Some of my Advanced Embedded Projects
