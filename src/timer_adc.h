@@ -40,5 +40,6 @@ Macro Defintions
 Public function Prototypes
 *******************************************************************************/
 void timer_adc(void);
+void Create_Obstacle(void);
 
 #endif  /* End of multiple inclusion prevention macro */

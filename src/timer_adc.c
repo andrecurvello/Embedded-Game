@@ -121,7 +121,7 @@ static void cmt_callback_readADC(void)
     cmt_start(CHANNEL_1, g_timer_count);    
 
     /* Execute the toggle LEDs function */
-    toggle_led();
+     Create_Obstacle();
     
 } /* End of function cmt_callback_readADC(). */
 
